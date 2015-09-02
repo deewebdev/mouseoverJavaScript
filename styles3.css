@@ -1,0 +1,27 @@
+nav ul{
+	float:left;
+	width: 100%;
+	padding:0;
+	margin:0;
+	list-style-type:none;
+	background-color:#00CCFF;
+	color:#FFF;
+	}
+	
+nav li a{
+	float:left;
+	width:6em;
+	text-decoration:none;
+	color:#FFF;
+	background-color:#00CCFF;
+	padding:0.4em 0.6em;
+	border: 1px solid #00CCFF;
+	}
+	
+nav li a:hover{
+	background-color:#66CCFF;
+	}
+	
+nav li {
+	display:inline;
+	}
